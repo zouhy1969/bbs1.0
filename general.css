@@ -1,0 +1,58 @@
+td {
+	font-size: 14px;
+}
+body {
+	margin: 20px;
+	padding: 0px;
+}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+.smalltext {
+	font-size: 14px;line-height:20px;
+}
+.largetext {
+	font-size: 14.8px;line-height:20px;
+}
+.graytext {
+	color: #818181;
+}
+.graytext1 {
+	color: #4d4d4d;
+}
+.bottom {
+	color: #818181;background-color: #EEEEEE;
+}
+.trtitle {
+	background-color: #80BFFF;color: #FFFFFF;height:18px;
+}
+.tr0 {
+	background-color: #FFFFFF;color: #818181;height:18px;
+}
+.tr1 {
+	background-color: #EBEBEB;color: #818181;height:18px;
+}
+input,textarea,select {
+	font:14px "ËÎÌå","ÐÂËÎÌå"; 
+	background-color:#F6F6F6;
+	border-style:solid; 
+	border-width:1px;
+	border-color:black  }
+.buttonstyle{
+	color:white;
+	background-color:#0033FF;  }
+
+
